@@ -1,5 +1,3 @@
-# nate-skills
-
 Personal skills package for Claude Code, Codex, Gemini-CLI, and other agent harnesses.
 Skills are reusable context bundles that agents load when working on a specific codebase or domain.
 

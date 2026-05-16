@@ -21,3 +21,6 @@ node_modules/
 # Build outputs (skill archives are committed; ignore intermediate build dirs)
 build/
 dist/
+
+# Model tests
+model_tests/
