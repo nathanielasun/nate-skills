@@ -42,10 +42,10 @@ Smilei is ~200k LOC of C++17. Unlike WarpX (built on AMReX), Smilei's data struc
 
 | Topic | Reference |
 |---|---|
-| Architecture, build system, MPI/OpenMP/GPU layers, patches, Hilbert curve, load balancing | `architecture.md` |
-| `Particles` SoA, `Species`, pushers, particle BCs, injection, current deposition, Maxwell solvers, `ElectroMagn`, PML | `core-data-structures.md` |
-| Pérez 2012 collision implementation, collisional/field ionization, ADK/PPT/BSI/envelope-averaged paths, adding a new model | `physics-modules.md` |
-| Diagnostic implementation, HDF5 schema, adding new diagnostics, happi integration | `diagnostics-source.md` |
+| Architecture, build system, MPI/OpenMP/GPU layers, patches, Hilbert curve, load balancing | `references/architecture.md` |
+| `Particles` SoA, `Species`, pushers, particle BCs, injection, current deposition, Maxwell solvers, `ElectroMagn`, PML | `references/core-data-structures.md` |
+| Pérez 2012 collision implementation, collisional/field ionization, ADK/PPT/BSI/envelope-averaged paths, adding a new model | `references/physics-modules.md` |
+| Diagnostic implementation, HDF5 schema, adding new diagnostics, happi integration | `references/diagnostics-source.md` |
 
 ## Directory layout
 
